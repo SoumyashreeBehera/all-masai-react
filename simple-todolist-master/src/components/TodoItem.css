@@ -1,0 +1,38 @@
+.eachTodoBox {
+  padding: 5px 4%;
+  display: flex;
+  width: 300px;
+  margin: 0px auto;
+  justify-content: center;
+  /* background-color: blue; */
+}
+.eachTodos {
+  width: 70%;
+  padding: 5%;
+  margin: 0% 0%;
+  text-decoration: none;
+  text-align: left;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: white;
+  /* border-radius: 10px; */
+}
+.eachTodoManageButton {
+  padding: 4% 0%;
+  padding-right: 3%;
+  border: none;
+  margin: 0% 0%;
+  font-size: 25px;
+  background-color: white;
+  /* border-radius: 10px; */
+  /* margin: auto; */
+}
+.doneCheckBox {
+  /* display: inline-block; */
+  background-color: white;
+  padding: 5.5% 1%;
+  align-self: center;
+  width: 25px;
+  height: 25px;
+}
